@@ -1,0 +1,42 @@
+.page{
+
+    border-radius:20px;
+    background-color: white;
+    width: 250px;
+    font-family: fantasy;
+    
+    }
+
+    .grid img {
+
+    border: 2px solid black;
+    border: 50px;
+
+    }
+.item img {
+
+    transform: translate(-50%,-50%);
+    opacity: 0;
+}
+
+
+.grid {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+    .header{
+
+        color: lightcoral;
+        background-color: blue;
+    }
+    body{
+    background-color: lightblue ;
+
+    
+
+}
+
+  
